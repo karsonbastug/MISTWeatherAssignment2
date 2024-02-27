@@ -102,3 +102,7 @@ ChatGPT was used to help build this website. Its uses were:
 * Used to gernerate cards for the dividers/content on the Today and Future pages
 * Used to generate CSS to animate text and properly align various aspects throughout the website
 * Used to aid in formating Return Button's locations
+
+# Resource Reflection
+
+The internet contains answers to almost any question that someone may have. It is an incredibly valuable tool, and it proved very useful to this project. By utilizing other repositories, websites, and Aritfiical Intelligence, I was able to use the best ideas from all sources to create a project that I am proud of. It was important to only use reliable sources, such as .govs or .orgs when possible. Additionally, trying to stay original and creative in my own though and attemping to use other websites for inspiration instead of strickly replicating it proved challenging.
